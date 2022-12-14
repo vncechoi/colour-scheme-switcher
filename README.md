@@ -20,8 +20,3 @@ Study the `index.html` and `css/style.css` files first and figure out how to get
 - Instead of `classList`, it'll be easier to use the `body` element's [`className` property](https://www.w3schools.com/jsref/prop_html_classname.asp) instead. 
 
 </details>
-
----
-
-### Hungry For More?
-- Do advanced reading on [event delegation](https://javascript.info/event-delegation) and refactor your `main.js` to only have **one** event listener set on a common ancestor.
